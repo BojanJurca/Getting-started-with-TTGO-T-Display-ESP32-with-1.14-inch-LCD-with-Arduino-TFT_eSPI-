@@ -14,7 +14,7 @@ If this helps saving the other happy owners some time.   
 
 ## Board 
 
-2. Select TTGP T1 board
+2. Select TTGO T1 board
 
 
 ## Libraries
